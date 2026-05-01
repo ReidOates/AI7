@@ -2,7 +2,7 @@
 title: AI7 Diabetes Prediction
 emoji: 🩺
 colorFrom: red
-colorTo: white
+colorTo: blue
 sdk: docker
 pinned: false
 ---
