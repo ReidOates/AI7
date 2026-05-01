@@ -1,3 +1,12 @@
+---
+title: AI7 Diabetes Prediction
+emoji: 🩺
+colorFrom: red
+colorTo: white
+sdk: docker
+pinned: false
+---
+
 # AI7: Diabetes Prediction with Backpropagation ANN
 
 A professional medical screening web application built with Flask and powered by a Backpropagation Neural Network (ANN) trained on 100,000 clinical records.
